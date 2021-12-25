@@ -4,10 +4,5 @@
 ![](https://img.shields.io/badge/Use-Python-0076ab?style=flat&logo=Python&logoColor=ffffff)
 
 
-<details>
-<summary>📈 My GitHub Stats</summary>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zytx121&show_icons=true&theme=gotham" alt="zytx121" />
-
-
+<img src="https://github-readme-stats.vercel.app/api?username=zytx121&count_private=true&show_icons=true&theme=tokyonight&layout=compact" height="150"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zytx121&theme=tokyonight&layout=compact" height="150">
 
