@@ -2,7 +2,7 @@
 
 ### ✨ Quick Facts
 
-- 🔭 I am currently a Research Fellow at S-Lab, Nanyang Technological University, Singapore.
+- 🔭 I am currently an Associate Professor at DREAMS, East China Normal University, China.
 - 🌱 I am currently the maintainer of MMRotate.
 - 🌱 I am currently focused on the remote sensing vision-language model.
 - 📫 How to reach me: **zytx121.github.io**
